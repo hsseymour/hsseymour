@@ -1,4 +1,9 @@
-### Hi! I'm Harry... 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&color=fe428e&pause=1500&repeat=false&random=false&width=1050&height=75&lines=Hi!+I'm+Harry+👋)](https://git.io/typing-svg)
+
+
+[![Harry's GitHub stats](https://github-readme-stats-hsseymour.vercel.app/api?username=hsseymour&rank_icon=github&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&hide=stars,contribs)](https://github.com/hsseymour/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-hsseymour.vercel.app/api/top-langs/?username=hsseymour&theme=radical)](https://github.com/hsseymour/github-readme-stats)
 
 <!--
 **hsseymour/hsseymour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
